@@ -1,12 +1,16 @@
 # coursera-az-900
 
-This Repo has the latest files for AZ-900 as of December 2, 2020. All additional updates and changes will be listed after their dates below.
+This Repo has the latest files for AZ-900 as of December 15, 2020. All updates and changes will be listed after their dates below.
 
 Quick notes:
 
 * All of the text for the course content is in the .md file(s) in the includes folder(s) of each module. 
 * All of the images are in the media folder(s).
 * The "paths" folder is included so that you are able to see the module structure of each Learning Path, in addition to the SEO and landing page summary.
+
+Updates on 12-15-20
+* Minor copy edit/text/spelling changes from Docs Pr Review team
+* Update to create-virtual-network.png 
 
 Updates on 12-2-20:
 * Add context in introduction module (#13238)
