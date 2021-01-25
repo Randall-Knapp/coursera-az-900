@@ -1,6 +1,6 @@
 # coursera-az-900
 
-This Repo has the latest files for AZ-900 as of December 15, 2020. All updates and changes will be listed after their dates below.
+This Repo has the latest files for AZ-900 as of January 25, 2020. All updates and changes will be listed after their dates below.
 
 Quick notes:
 
