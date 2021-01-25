@@ -8,6 +8,11 @@ Quick notes:
 * All of the images are in the media folder(s).
 * The "paths" folder is included so that you are able to see the module structure of each Learning Path, in addition to the SEO and landing page summary.
 
+Updates on 1-26-21
+* Copy edits from the Docs Pr Review team (consistency with voice (tense), punctuation, etc.)
+* Updates (copy edits, lab structure and text structure) to the exercise-create-website.md, 3-exercise-create-function-triggered-by-webhook.md, 2-create-iot-hub-device-id.md, 2-exercise-add-numbers.md, 3-exercise-tryparse.md  
+* Updated image to match current UI -- azure-database-fundamentals/media/additional-settings-tab.png
+
 Updates on 12-15-20
 * Minor copy edit/text/spelling changes from Docs Pr Review team
 * Update to create-virtual-network.png 
